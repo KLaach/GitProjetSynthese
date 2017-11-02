@@ -1,0 +1,24 @@
+.AppTitle{
+	width : 10%;
+	line-height: 1;
+}
+
+.Accueil{
+	display: block;
+	margin-top: inherit;
+	text-align: center;
+}
+
+.ImgAccueil{
+	width: 30%;
+}
+
+.TxtAccueil{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+.Jouer{
+	width: 20%;
+}
